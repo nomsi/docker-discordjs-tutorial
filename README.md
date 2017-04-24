@@ -13,11 +13,17 @@ This tutorial uses the following:
 
 ### Guide
 1.) Step 1: [Setting Up](https://github.com/truency/docker-discordjs-tutorial/blob/master/1.%20Setting%20Up.md)
+
 2.) Step 2: [Creating The Project](https://github.com/truency/docker-discordjs-tutorial/blob/master/2.%20Creating%20The%20Project.md)
+
 3.) Step 3: [Creating the Dockerfile and Running!](https://github.com/truency/docker-discordjs-tutorial/blob/master/3.%20Creating%20the%20Dockerfile%20and%20Running!.md)
+
 4.) * Step 4: [Using Docker Compose]()
+
 5.) * Step 5: [Customizing your containers]()
+
 6.) * Step 6: [Swarming your containers]() 
+
 7.) * Coming soon.
 
 ### What is Docker?
