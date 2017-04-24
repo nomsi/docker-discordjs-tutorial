@@ -19,7 +19,7 @@ This tutorial uses the following:
 4. * Step 4: [Using Docker Compose]()
 5. * Step 5: [Customizing your containers]()
 6. * Step 6: [Swarming your containers]() 
-7. * Coming soon.
+7. * More tutorials may be coming soon!
 
 ### What is Docker?
 Docker is a project that automates the deployment of application inside of software containers. This means it will have it's own kernel, system, operating system, etc without directly effecting the host operating system. To put it in easier terms: You put your application inside a mini-fridge. Take that mini-fridge and put it inside of the big refrigerator. The fridge being the server. It has no effect on the fridge's internal mechanisms, and it keeps it "running" inside it's own happy little world.
