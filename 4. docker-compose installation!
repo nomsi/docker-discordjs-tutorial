@@ -1,0 +1,31 @@
+## docker-compose
+
+
+### What is it?!
+docker-compose is a tool used to create, define, and "orchastrate" many docker containers at once. That way your bot can have some friends! 
+They will not be inside the same container as the bot, but more like neighbors.
+We will be using it to give our bot a database using PostgreSQL. You can fill free to use any database you want, just visit (Docker Hub)[https://hub.docker.com] to search for your particular option.
+
+
+### Installation
+You have a few choices here. You can use the one provided by your distributions repos (or Windows), or get the latest source by installing ``python3-pip``.
+
+
+   > python3-pip: ``pip install docker-compose``
+   > Ubuntu/Debian: ``sudo apt install docker-compose``
+   > RHEL: ``sudo yum install docker-compose``
+   > Pacman: ``sudo pacman -S docker-compose``
+   > cURL: ``curl -L https://github.com/docker/compose/releases/download/1.12.0/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose``
+   > Windows: (docker-compose x86)[https://github.com/docker/compose/releases/download/1.12.0/docker-compose-Windows-x86_64.exe]
+   > Mac: Use cURL.
+
+
+### Check if it's installed
+You can check if docker-compose is installed by running ``docker-compose --version``
+
+
+### What is docker-compose.yml?
+Ah, that will be covered in the next tutorial when I explain it throughly, give an example and show you how to orchastrate your own docker-compose file to fit your needs. 
+
+
+[ CHECK BACK SOON! ]
